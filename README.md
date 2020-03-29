@@ -13,11 +13,11 @@ This project does not require installation.
 
 # Technology/Framework
 
-This project was created using html, css, javascript, bootstrap, and jQuery.
+This project was created with html, css, and javascript using bootstrap, jQuery, and moment.js libraries.
 
 # How to Use
 
-TBD
+You should find a header updated with today's date and a body containing a row for each hour in a standard work day (9AM to 5PM). Enter your desired note or task in the blank center area of the applicable hour and click the save button next to it. This will save your schedule. To clear your schedule for a new day or big change in plans, click the clear button in the header.
 
 # Credits
 
