@@ -16,7 +16,7 @@ body {
     border-bottom: 10px solid black;
 }
 
-.clearBtn {
+#clearBtn {
     width: 25%;
 }
 
