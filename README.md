@@ -3,27 +3,27 @@
 
 This project is a simple day planner that allows users to dynamically update tasks for various time periods in a single day.
 
-# Requirements
+## Requirements
 
 This project was designed to be used on any web browser.
 
-# Installation
+## Installation
 
 This project does not require installation.
 
-# Technology/Framework
+## Technology/Framework
 
 This project was created with html, css, and javascript using bootstrap, jQuery, and moment.js libraries.
 
-# How to Use
+## How to Use
 
 You should find a header updated with today's date and a body containing a row for each hour in a standard work day (9AM to 5PM). Enter your desired note or task in the blank center area of the applicable hour and click the save button next to it. This will save your schedule. To clear your schedule for a new day or big change in plans, click the clear button in the header.
 
-# Credits
+## Credits
 
 I would like to thank all the instructors, TAs, and staff at the University of Utah Coding Bootcamp for the instruction, curriculum, inspiration, and other support provided to assist me in the creation of this project.
 
-# License
+## License
 
 Released under MIT License
 
